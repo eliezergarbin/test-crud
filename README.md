@@ -1,1 +1,1 @@
-# Crud realizado utilizando local storage
+# Crud realizado utilizando JS puro com local storage
